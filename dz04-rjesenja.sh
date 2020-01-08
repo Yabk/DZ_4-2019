@@ -72,12 +72,12 @@
 
 #!#!#!#!#!#!#
 # 13. Bez promjene ostalih dozvola, omogucite ostalim korisnicima
-# da u datoteku mogu pisati (0.5)
+# da u datoteku samo-ja mogu pisati (0.5)
 
 
 
 #!#!#!#!#!#!#
-# 14. Obrisite datoteku samo-ja. (0.25)
+# 14. Ispisite vlasnika-grupu datoteke samo-ja. (0.25)
 
 
 
@@ -87,7 +87,8 @@
 
 
 #!#!#!#!#!#!#
-# 16. Izbrisite korisnika weakling. (0.25)
+# 16. Izbrisite korisnika weakling, i pobrinite se da i njegov maticni direktorij
+# bude takoder obrisan (0.25)
 
 
 
