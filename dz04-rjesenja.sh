@@ -48,13 +48,13 @@
 
 
 #!#!#!#!#!#!#
-# 9. Omogucite korisniku weakling privremeno dobivanje administrativnih ovlasti. (1.0)
+# 9. Omogucite korisniku weakling privremeno dobivanje administrativnih ovlasti. (0.75)
 
 
 
 #!#!#!#!#!#!#
 # 10. "Prebacite se" u korisnika weakling - prijavite se u ljusku kao taj korisnik,
-# i to u njegov maticni direktorij i s njegovim varijablama okruzenja (0.75)
+# i to u njegov maticni direktorij i s njegovim varijablama okruzenja (0.5)
 
 
 
@@ -82,13 +82,13 @@
 
 
 #!#!#!#!#!#!#
-# 15. Odjavite se iz korisnika weakling. (0.25)
+# 15. Odjavite se iz korisnika weakling. (0.50)
 
 
 
 #!#!#!#!#!#!#
 # 16. Izbrisite korisnika weakling, i pobrinite se da i njegov maticni direktorij
-# bude takoder obrisan (0.25)
+# bude takoder obrisan (0.5)
 
 
 
